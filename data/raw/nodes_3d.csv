@@ -1,0 +1,48 @@
+name,lat,lon,zone,status,elev_m,elev_source
+Vehicles Maintenance,44.53397478022453,-72.78970406216413,Mountain Base,active,430,estimated
+Snowmaking Control,44.53291282175362,-72.79019935725232,Mountain Base,active,420,estimated
+Midway,44.53168034157372,-72.79030874148611,Mountain Base,active,460,estimated
+Cliff House,44.53760695156738,-72.81426928408973,Upper Mountain,active,1050,estimated
+Gondola Barn,44.53117296598019,-72.78758861126525,Mountain Base,active,395,estimated
+MOC,44.53045706260745,-72.78702517521394,Mountain Base,active,395,estimated
+Over Easy Drive,44.5306537518236,-72.78743026736026,Mountain Base,active,395,estimated
+Over Easy Return,44.53061933757054,-72.78173001274592,Mid Mountain,active,580,estimated
+Spruce Camp,44.53095040595042,-72.7814548516771,Mid Mountain,active,590,estimated
+Demo Center,44.528801,-72.785544,Mountain Base,active,380,estimated
+Four Runner Quad Drive,44.52887782683637,-72.78619393875799,Mountain Base,active,385,estimated
+Four Runner Quad Return,44.52394935565263,-72.80786026300211,Upper Mountain,inferred_active,970,estimated
+Octagon,44.52424278249422,-72.80751887354039,Upper Mountain,active,975,estimated
+Ski Patrol (269),44.52379475357288,-72.80818265053907,Upper Mountain,active,980,estimated
+Lookout Double Drive,44.52830091154923,-72.78451356020577,Mountain Base,active,400,estimated
+Mansfield Lodge,44.52906754186289,-72.78429138980584,Mountain Base,active,405,estimated
+Sunrise Drive,44.52851954600344,-72.78323016039246,Mountain Base,active,400,estimated
+Sunny Quad Drive,44.53146202580196,-72.78129132378108,Mid Mountain,active,620,estimated
+Race Shack,44.532117,-72.780838,Mid Mountain,active,625,estimated
+Meadows Quad Drive,44.53169465471388,-72.7800767230656,Mid Mountain,active,650,estimated
+Adventure Triple Drive,44.53104047669733,-72.7795971104978,Mid Mountain,active,660,estimated
+Sensation Quad Drive,44.535892614842,-72.77568923363755,Upper Mountain,active,850,estimated
+Sensation Quad Return,44.55097682958558,-72.78121081469202,Upper Mountain,inferred_active,1100,estimated
+Ski Patrol Spruce Side,44.55140830106051,-72.78123421444815,Upper Mountain,active,1100,estimated
+Turf Building,44.53560025354428,-72.77595118335974,Mid Mountain,active,855,estimated
+Bldg M (Stowe Logo Store),44.530411,-72.780842,Mid Mountain,active,530,estimated
+Bldg N (True North),44.529866,-72.780894,Mid Mountain,active,510,estimated
+Adventure Center,44.53067360086118,-72.77995143399957,Mid Mountain,active,520,estimated
+Stowe Mountain Lodge,44.53008098184256,-72.78105857921837,Mid Mountain,active,475,estimated
+First Chair,44.530247757504,-72.78078325489172,Mid Mountain,active,480,estimated
+Admin,44.51051810230879,-72.76552349656498,Base Village,active,390,estimated
+The Inn,44.51112282588134,-72.7656978790946,Base Village,active,392,estimated
+Marketing,44.51094463299796,-72.76648460883614,Base Village,active,391,estimated
+THCC,44.51034183585563,-72.76668958805115,Base Village,active,390,estimated
+Warehouse,44.50631448179338,-72.76137472662325,Base Village,active,368,estimated
+Nordic Center,44.5054387665519,-72.76256979955778,Base Village,active,360,estimated
+FarmHouse,44.5060592613179,-72.76097089707389,Base Village,active,365,estimated
+Toll Road Shack,44.51070875298394,-72.7666833858992,Base Village,unverified,392,estimated
+TollHouse Double Drive,44.51079107926899,-72.7674691654001,Base Village,inferred_active,393,estimated
+TollHouse Double Return,44.51904760482018,-72.78883640755843,Mountain Base,inferred_active,700,estimated
+Sunrise Return,44.52055090164348,-72.79564819987432,Mountain Base,inferred_active,700,estimated
+Lookout Double Return,44.52301019092231,-72.80209924457878,Upper Mountain,inferred_active,850,estimated
+Sunny Quad Return,44.54143198244539,-72.78284681685732,Upper Mountain,inferred_active,1000,estimated
+Meadows Quad Return,44.53626281034168,-72.78067286470414,Mid Mountain,inferred_active,900,estimated
+Adventure Triple Return,44.53205987974514,-72.77621440117946,Mid Mountain,inferred_active,850,estimated
+Building Maintenance XC,44.50460989564515,-72.76287664312079,Base Village,unverified,355,estimated
+F.A.A.T Building,44.531583,-72.782321,Mid Mountain,active,680,estimated

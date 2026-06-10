@@ -1,0 +1,40 @@
+from_node,to_node,fiber_type,strand_count,leased,defunct,segment_type,notes
+Vehicles Maintenance,Midway,SM,12,False,False,buried,
+Midway,Snowmaking Control,SM,12,False,False,buried,
+Midway,Gondola Barn,SM,12,False,False,buried,
+Gondola Barn,MOC,SM,48,False,False,buried,Primary backbone
+Gondola Barn,MOC,SM,12,False,False,buried,Secondary run
+Gondola Barn,Cliff House,LF,0,False,False,lift,Lift fiber - gondola
+Gondola Barn,Octagon,LF,0,False,False,lift,Lift fiber
+Octagon,Ski Patrol (269),LF,0,False,False,lift,Lift fiber
+Gondola Barn,Four Runner Quad Drive,SM,12,False,False,buried,
+Four Runner Quad Drive,Demo Center,SM,12,False,False,buried,
+Demo Center,MOC,SM,24,False,False,buried,
+MOC,Over Easy Drive,LF,12,False,False,lift,Lift fiber + 12 SM
+Over Easy Drive,Over Easy Return,LF,0,False,False,lift,Lift fiber
+Over Easy Return,Spruce Camp,SM,12,False,False,buried,
+MOC,Spruce Camp,SM,12,False,False,buried,Direct run
+MOC,Mansfield Lodge,SM,12,False,False,buried,
+MOC,Mansfield Lodge,MM,12,False,True,buried,6-strand multimode defunct
+Mansfield Lodge,Lookout Double,SM,0,False,False,buried,
+Lookout Double,Sunrise Drive,SM,0,False,False,buried,
+Spruce Camp,F.A.A.T Building,SM,60,False,False,buried,
+F.A.A.T Building,Sunny Quad Drive,SM,12,False,False,buried,
+Sunny Quad Drive,Race Shack,SM,12,False,False,buried,
+Race Shack,Meadows Quad Drive,LF,12,False,False,lift,Lift fiber
+Meadows Quad Drive,Sensation Quad Drive,SM,12,False,False,buried,
+Sensation Quad Drive,Turf Building,SM,12,False,False,buried,
+Turf Building,Adventure Triple Drive,SM,0,False,False,buried,
+Spruce Camp,Bldg M,SM,12,False,False,buried,
+Bldg M,Bldg N,SM,12,False,False,buried,
+Bldg N,Adventure Center,SM,24,False,False,buried,
+Bldg N,Stowe Mountain Lodge,SM,0,False,False,buried,
+Stowe Mountain Lodge,First Chair,MM,6,False,False,buried,
+Stowe Mountain Lodge,Admin,SM,6,True,False,leased,6 strand SM leased
+Admin,The Inn,SM,12,False,False,buried,
+Admin,The Inn,MM,12,False,False,buried,
+The Inn,Marketing,SM,12,False,False,buried,
+Marketing,THCC,SM,12,False,False,buried,
+Admin,Warehouse,SM,2,True,False,leased,2 strand SM leased
+Warehouse,FarmHouse,SM,12,False,False,buried,
+Warehouse,Nordic Center,SM,12,False,False,buried,

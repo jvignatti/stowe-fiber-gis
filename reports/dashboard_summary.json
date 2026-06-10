@@ -1,0 +1,40 @@
+{
+  "network_summary": {
+    "total_nodes": 47,
+    "active_nodes": 36,
+    "inferred_nodes": 9,
+    "unverified_nodes": 2,
+    "total_segments": 42
+  },
+  "network_length": {
+    "total_3d_m": 15433.2,
+    "total_3d_ft": 50634.0,
+    "total_3d_mi": 9.59,
+    "owned_3d_ft": 40549.0,
+    "leased_3d_ft": 10085.0,
+    "lift_fiber_3d_ft": 25320.0,
+    "buried_3d_ft": 15229.0,
+    "defunct_3d_ft": 8979.0,
+    "elevation_correction_pct": 3.5
+  },
+  "fiber_breakdown": {
+    "single_mode_segments": 31,
+    "multi_mode_segments": 3,
+    "lift_fiber_segments": 7,
+    "max_strand_count": 60,
+    "segments_60_strand": 1,
+    "segments_48_strand": 1
+  },
+  "flags": {
+    "defunct_segments": 1,
+    "leased_segments": 2,
+    "unverified_nodes": 2,
+    "lift_segments_no_strand_count": 6
+  },
+  "elevation": {
+    "elev_source": "estimated (QL1 LiDAR pending local run)",
+    "min_node_elev_ft": 1165.0,
+    "max_node_elev_ft": 3609.0,
+    "vertical_range_ft": 2444.0
+  }
+}
